@@ -1,0 +1,15 @@
+C:\Users\seregaAn\Documents\Visual Studio 2015\Projects\ChatClient\ChatClient\bin\Release\ChatClient.exe.config
+C:\Users\seregaAn\Documents\Visual Studio 2015\Projects\ChatClient\ChatClient\bin\Release\ChatClient.exe
+C:\Users\seregaAn\Documents\Visual Studio 2015\Projects\ChatClient\ChatClient\bin\Release\ChatClient.pdb
+C:\Users\seregaAn\Documents\Visual Studio 2015\Projects\ChatClient\ChatClient\obj\Release\ChatClient.exe
+C:\Users\seregaAn\Documents\Visual Studio 2015\Projects\ChatClient\ChatClient\obj\Release\ChatClient.pdb
+C:\Users\seregaAn\Documents\Visual Studio 2015\Projects\ChatClient\ChatClient\bin\Release\SendInfoHeader.dll
+C:\Users\seregaAn\source\repos\ChatClient\ChatClient\bin\Release\ChatClient.exe.config
+C:\Users\seregaAn\source\repos\ChatClient\ChatClient\bin\Release\ChatClient.exe
+C:\Users\seregaAn\source\repos\ChatClient\ChatClient\bin\Release\ChatClient.pdb
+C:\Users\seregaAn\source\repos\ChatClient\ChatClient\bin\Release\SendInfoHeader.dll
+C:\Users\seregaAn\source\repos\ChatClient\ChatClient\obj\Release\ChatClient.csprojAssemblyReference.cache
+C:\Users\seregaAn\source\repos\ChatClient\ChatClient\obj\Release\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\seregaAn\source\repos\ChatClient\ChatClient\obj\Release\ChatClient.csproj.CopyComplete
+C:\Users\seregaAn\source\repos\ChatClient\ChatClient\obj\Release\ChatClient.exe
+C:\Users\seregaAn\source\repos\ChatClient\ChatClient\obj\Release\ChatClient.pdb
