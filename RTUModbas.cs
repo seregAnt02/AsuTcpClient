@@ -25,7 +25,7 @@ namespace ChatClient
         {
             try
             {
-                sp = new SerialPort("COM3", 115200, Parity.None, 8, StopBits.One);
+                sp = new SerialPort("COM1", 115200, Parity.None, 8, StopBits.One);
                 sp.Open();
             }
             catch (Exception ex)

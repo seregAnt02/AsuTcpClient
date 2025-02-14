@@ -12,3 +12,12 @@ C:\Users\seregaAn\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient.csproj
 C:\Users\seregaAn\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CopyComplete
 C:\Users\seregaAn\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient.exe
 C:\Users\seregaAn\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+D:\ProjectSharp\ChatClient\bin\Debug\ChatClient.exe.config
+D:\ProjectSharp\ChatClient\bin\Debug\ChatClient.exe
+D:\ProjectSharp\ChatClient\bin\Debug\ChatClient.pdb
+D:\ProjectSharp\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+D:\ProjectSharp\ChatClient\obj\Debug\ChatClient.csproj.SuggestedBindingRedirects.cache
+D:\ProjectSharp\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+D:\ProjectSharp\ChatClient\obj\Debug\ChatClient.csproj.CopyComplete
+D:\ProjectSharp\ChatClient\obj\Debug\ChatClient.exe
+D:\ProjectSharp\ChatClient\obj\Debug\ChatClient.pdb
